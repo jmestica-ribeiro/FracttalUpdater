@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Excel data files
+*.xlsx
+*.xls
+~$*.xlsx
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# System
+Thumbs.db
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
